@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
     'lessons.apps.LessonsConfig',
     'accounts.apps.AccountsConfig',
+    'frontend',
 ]
 
 MIDDLEWARE = [
